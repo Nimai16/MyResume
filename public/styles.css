@@ -1,0 +1,12 @@
+html {
+    color: floralwhite; background-color:black;
+}
+
+
+.Headers{
+    text-align: center;
+}
+
+p[value="1"] {
+    text-align: center;
+}
